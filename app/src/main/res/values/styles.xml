@@ -6,7 +6,7 @@
     <!-- Base theme applied no matter what API -->
     <style name="MyTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- colorPrimary is used for the default action bar background -->
-        <item name="colorPrimary">#a159ff</item>
+        <item name="colorPrimary">#04EF04</item>
         <!-- colorPrimaryDark is used for the status bar -->
         <item name="colorPrimaryDark">#7e1aff</item>
         <!-- colorAccent is used as the default value for colorControlActivated
